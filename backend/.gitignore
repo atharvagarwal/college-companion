@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+
+# Log files
+*.log
+
+# Output directories
+dist/
+build/
+out/
+
+# OS and editor generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+._*
+
+# IDE settings
+.idea/
+.vscode/
+
+# Optional: Ignore package-lock or yarn lock files
+# (uncomment one of the following, depending on your package manager)
+# package-lock.json
+# yarn.lock
