@@ -2,6 +2,8 @@
 College Companion App made using react-native
 Explanation Link - https://www.loom.com/share/7ddcb326a78242999ce2dc28ea7fbe4e?sid=5f85fae3-17ed-4156-9408-ee10e4bc9713
 To run the app you must have node.js and react native cli installed on your computer
+
+
 Frontend Steps
 
 
@@ -15,6 +17,8 @@ If you are running on emulator on windows type replace the api endpoints with yo
 
 
 Backend Steps
+
+
 cd backend
 npm install
 npm run dev
